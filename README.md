@@ -1,9 +1,9 @@
 # Food-Ordering-System
 
-##Introduction
+## Introduction
 Our Food Ordering Website is designed to facilitate easy food ordering for customers while offering comprehensive menu and order management for administrators. Customers can explore the menu, add items to their cart, and proceed to checkout. Administrators can manage the menu by adding, updating, or removing items and keep track of incoming orders. The project is still in process of building.
 
-##Features
+## Features
 **Customer Page:**
 -Add menu items to the cart.
 -Adjust quantities and remove items from the cart.
